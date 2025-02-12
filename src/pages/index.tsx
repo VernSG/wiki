@@ -5,7 +5,7 @@ export default function Home() {
   const history = useHistory();
 
   useEffect(() => {
-    history.replace("/anteiku-wiki/docs/intro");
+    history.replace("/docs/intro");
   }, []);
 
   return null;
