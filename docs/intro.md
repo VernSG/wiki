@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-**Anteiku Dev** adalah komunitas bagi para developer yang ingin belajar dan berbagi ilmu seputar dunia pemrograman. Kami menyediakan berbagai tutorial dasar hingga tingkat lanjut untuk membantu kamu dalam perjalanan menjadi developer handal. 🚀
+**Codex Info Dev** adalah komunitas bagi para developer yang ingin belajar dan berbagi ilmu seputar dunia pemrograman. Kami menyediakan berbagai tutorial dasar hingga tingkat lanjut untuk membantu kamu dalam perjalanan menjadi developer handal. 🚀
 
 ## Apa yang Akan Kamu Pelajari?
 
@@ -59,4 +59,4 @@ Jika muncul versi Git, berarti instalasi berhasil! 🎉
 
 ### 💡 Mulai Belajar Sekarang!
 
-Buka bagian tutorial berikutnya untuk mempelajari lebih lanjut tentang Git, JavaScript, dan teknologi lainnya. Selamat belajar dan berkembang bersama komunitas Anteiku Dev! 🔥
+Buka bagian tutorial berikutnya untuk mempelajari lebih lanjut tentang Git, JavaScript, dan teknologi lainnya. Selamat belajar dan berkembang bersama komunitas Codex Info Dev! 🔥

@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "Anteiku-Wiki",
+  title: "Codex Info-Wiki",
   tagline: "Developer tutorial",
   favicon: "img/favicon.ico",
 
@@ -17,8 +17,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "anteiku-dev", // Usually your GitHub org/user name.
-  projectName: "anteiku-wiki", // Usually your repo name.
+  // organizationName: "Codex Info-dev", // Usually your GitHub org/user name.
+  // projectName: "Codex Info-wiki", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -64,7 +64,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "Anteiku",
+      title: "Codex Info",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
@@ -78,7 +78,7 @@ const config: Config = {
         },
         // { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/anteiku-dev/anteiku-wiki",
+          href: "https://github.com/vernsg/wiki",
           label: "GitHub",
           position: "right",
         },
@@ -122,12 +122,12 @@ const config: Config = {
             // },
             {
               label: "GitHub",
-              href: "https://github.com/anteiku-dev",
+              href: "https://github.com/vernsg",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Anteiku Tutorial, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Codex Info Tutorial, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
