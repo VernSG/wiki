@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal_wiki=self.webpackChunkpersonal_wiki||[]).push([[583],{6107:(e,n,i)=>{i.r(n),i.d(n,{default:()=>r});var s=i(6540),u=i(6347);function r(){const e=(0,u.W6)();return(0,s.useEffect)((()=>{e.replace("/anteiku-wiki/docs/intro")}),[]),null}}}]);
